@@ -4,23 +4,21 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml/badge.svg)](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml)
+# Awesome Evolution Simulators [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/dietrich-stein/awesome-evolution-simulators/actions/workflows/lint.yaml/badge.svg)](https://github.com/dietrich-stein/awesome-evolution-simulators/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+A curated list of aweseome evolution simulators.
 
-<!-- image -->
+<!-- image 
 
 <a href="" target="_blank" rel="noopener noreferrer">
   <img src="" />
-</a>
+</a>-->
 
 <!-- description -->
 
-A one line description of the product or tool. See
-[awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
-example.
+An evolution simulator is software that simulates the process of evolution. They typically models the principles of natural selection, mutation, and genetic variation to mimic how species evolve over time. These simulations often use populations of virtual organisms or creatures that can reproduce, pass on genetic traits, and compete for resources in a simulated environment.
 
 </div>
 
@@ -28,27 +26,15 @@ example.
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
-- [Follow](#follow)
+- [New Links (Uncategorized)](#new-links-uncategorized)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## New Links (Uncategorized)
 
-- [Apple](https://apple.com) - Apple as a placeholder.
-
-## Section 1
-
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- [The Life Engine](https://github.com/MaxRobinsonTheGreat/LifeEngine) - A cellular automaton designed to simulate the long term processes of biological evolution. `JavaScript`
 
 <!-- END CONTENT -->
-
-## Follow
-
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
-
-Who else should we be following!?
 
 ## Contributing
 
@@ -56,4 +42,4 @@ Who else should we be following!?
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/dietrich-stein/awesome-evolution-simulators/graphs/contributors)!

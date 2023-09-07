@@ -32,7 +32,7 @@ An evolution simulator is software that simulates the process of evolution. They
 
 ## New Links (Uncategorized)
 
-- [The Life Engine](https://github.com/MaxRobinsonTheGreat/LifeEngine) - A cellular automaton designed to simulate the long term processes of biological evolution. `JavaScript`
+- [The Life Engine](https://github.com/MaxRobinsonTheGreat/LifeEngine) - A cellular automaton designed to simulate the long term processes of biological evolution.
 
 <!-- END CONTENT -->
 

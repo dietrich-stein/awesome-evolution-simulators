@@ -18,7 +18,7 @@ A curated list of aweseome evolution simulators.
 
 <!-- description -->
 
-An evolution simulator is software that simulates the process of evolution. They typically models the principles of natural selection, mutation, and genetic variation to mimic how species evolve over time. These simulations often use populations of virtual organisms or creatures that can reproduce, pass on genetic traits, and compete for resources in a simulated environment.
+An evolution simulator is software that simulates the process of evolution. They typically model the principles of natural selection, mutation, and genetic variation to mimic how species evolve over time. These simulations often use populations of virtual organisms or creatures that can reproduce, pass on genetic traits, and compete for resources in a simulated environment.
 
 </div>
 

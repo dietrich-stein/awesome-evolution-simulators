@@ -33,6 +33,8 @@ An evolution simulator is software that simulates the process of evolution. They
 ## New Links (Uncategorized)
 
 - [The Life Engine](https://github.com/MaxRobinsonTheGreat/LifeEngine) - A cellular automaton designed to simulate the long term processes of biological evolution.
+- [Evolving-Protozoa](https://github.com/DylanCope/Evolving-Protozoa) - An interactive environment where protozoa-like entities live, die, and have offspring whose behaviours and morphologies can change.
+- [The Bibites](https://github.com/TheBibites/Bibites_Shared_Content) - Uses ideas from NeuroEvolution of Augmenting Technologies (NEAT) to simulate and evolve agent brains.
 
 <!-- END CONTENT -->
 

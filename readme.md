@@ -38,7 +38,7 @@ An evolution simulator is software that simulates the process of evolution. They
 - [biosim4](https://github.com/davidrmiller/biosim4) - Simulates biological creatures that evolve through natural selection while making decisions based on pheremone trails.
 - [ecosim](https://github.com/connor-brooks/ecosim) - An interactive ecosystem and evolution simulator of agents with a variety of genetic traits.
 - [ALIEN](https://github.com/chrxh/alien) - A CUDA-powered artificial life simulator capable of large-scale real-time simulation.
-
+- [SpaceParticleSimulator](https://github.com/Baanista/SpaceParticleSimulator) - Simulates evolutionary patterns with cells acting under particle physics and includes predation.
 <!-- END CONTENT -->
 
 ## Contributing

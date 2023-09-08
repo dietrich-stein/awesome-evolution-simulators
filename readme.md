@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A curated list of awesome evolution simulators.
+A curated list of awesome open-source evolution simulators.
 
 <!-- image 
 

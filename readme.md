@@ -51,8 +51,6 @@ Many evolution simulators include functionality that isn't necessarily required 
 - [Thrive](https://github.com/Revolutionary-Games/Thrive) - A playable simulation game about the evolution of life with powerful creation tools and deep simulation mechanics.
 - [Creatures](https://github.com/thopit/Creatures) - An evolution simulator with inheritance and mutation during reproduction.
 
-Our team seeks to accomplish two major goals: create engaging, compelling gameplay that respects our players’ intelligence, and remain as accurate as possible in our depiction of known scientific theory without compromising the former.
-
 <!-- END CONTENT -->
 
 ## Contributing

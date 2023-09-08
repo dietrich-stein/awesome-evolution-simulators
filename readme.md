@@ -40,6 +40,10 @@ An evolution simulator is software that simulates the process of evolution. They
 - [ALIEN](https://github.com/chrxh/alien) - A CUDA-powered artificial life simulator capable of large-scale real-time simulation.
 - [SpaceParticleSimulator](https://github.com/Baanista/SpaceParticleSimulator) - Simulates evolutionary patterns with cells acting under particle physics and includes predation.
 - [SproutLife](https://github.com/ShprAlex/SproutLife) - Simulates the evolution of complex life by extending Conway’s Game of Life and defining organisms that mutate and reproduce.
+- [Thrive](https://github.com/Revolutionary-Games/Thrive) - A playable simulation game about the evolution of life with powerful creation tools and deep simulation mechanics.
+- [Creatures](https://github.com/thopit/Creatures) - An evolution simulator with inheritance and mutation during reproduction.
+
+Our team seeks to accomplish two major goals: create engaging, compelling gameplay that respects our players’ intelligence, and remain as accurate as possible in our depiction of known scientific theory without compromising the former.
 
 <!-- END CONTENT -->
 

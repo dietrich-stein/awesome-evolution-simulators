@@ -24,7 +24,7 @@ This list focuses on simulators that are truly awesome. We aim to find and list 
 
 - [New Links (Uncategorized)](#new-links-uncategorized)
 - [Contributing](#contributing)
-- [Contributors](#contributors)
+- [Past Contributors](#past-contributors)
 
 ## New Links (Uncategorized)
 
@@ -43,6 +43,6 @@ This list focuses on simulators that are truly awesome. We aim to find and list 
 
 Contributions of any kind welcome, just follow the [guidelines](contributing.md)!
 
-## Contributors
+## Past Contributors
 
-Thanks goes to these [contributors](https://github.com/dietrich-stein/awesome-evolution-simulators/graphs/contributors)!
+Thanks goes to these awesome [past contributors](https://github.com/dietrich-stein/awesome-evolution-simulators/graphs/contributors)!

@@ -11,7 +11,7 @@ A curated list of open-source evolution simulators.
 <br/>
 Evolution simulators are software that simulates the process of evolution and typically models the principles of natural selection, mutation, genetic inheritance, and fitness evaluation. They often use populations of virtual organisms or agents that can reproduce, pass on genetic traits, compete for resources in a simulated environment and evolve over time.<br /><br />
 
-This list focuses on simulators that are truly awesome. We aim to find and list the ones that use advanced techniques to accelerate, enhance, or even replace the processes of evolution. Give us a hand by [making a contribution](#contributing) if you find think you've got special or found something worth sharing. Some technologies to look for include:<br /><br />
+This list focuses on simulators that are truly awesome. We aim to find and list the ones that use advanced techniques to accelerate, enhance, or even replace the processes of evolution. Some technologies to look for include:<br /><br />
 
 - Neural networks
 - Cellular automata

@@ -11,7 +11,7 @@ A curated list of open-source evolution simulators.
 <br/>
 Evolution simulators are software that simulates the process of evolution and typically models the principles of natural selection, mutation, genetic inheritance, and fitness evaluation. They often use populations of virtual organisms or agents that can reproduce, pass on genetic traits, compete for resources in a simulated environment and evolve over time.<br /><br />
 
-This list focuses on simulators that are truly awesome. We aim to find and list the ones that use advanced techniques to accelerate, enhance, or even replace the processes of evolution. Give us a hand by [making a contribution](contributing.md) if you find think you've got special or found something worth sharing. Some technologies to look for include:<br /><br />
+This list focuses on simulators that are truly awesome. We aim to find and list the ones that use advanced techniques to accelerate, enhance, or even replace the processes of evolution. Give us a hand by [making a contribution](#contributing) if you find think you've got special or found something worth sharing. Some technologies to look for include:<br /><br />
 
 - Neural networks
 - Cellular automata
@@ -23,6 +23,8 @@ This list focuses on simulators that are truly awesome. We aim to find and list 
 ## Contents
 
 - [New Links (Uncategorized)](#new-links-uncategorized)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
 
 ## New Links (Uncategorized)
 
@@ -33,16 +35,14 @@ This list focuses on simulators that are truly awesome. We aim to find and list 
 - [ecosim](https://github.com/connor-brooks/ecosim) - An interactive ecosystem and evolution simulator of agents with a variety of genetic traits.
 - [ALIEN](https://github.com/chrxh/alien) - A CUDA-powered artificial life simulator capable of large-scale real-time simulation.
 - [SpaceParticleSimulator](https://github.com/Baanista/SpaceParticleSimulator) - Simulates evolutionary patterns with cells acting under particle physics and includes predation.
-- [SproutLife](https://github.com/ShprAlex/SproutLife) - Simulates the evolution of complex life by extending Conway’s Game of Life and defining organisms that mutate and reproduce.
+- [SproutLife](https://github.com/ShprAlex/SproutLife) - Simulates the evolution of complex life by extending Conway's Game of Life and defining organisms that mutate and reproduce.
 - [Thrive](https://github.com/Revolutionary-Games/Thrive) - A playable simulation game about the evolution of life with powerful creation tools and deep simulation mechanics.
 - [Creatures](https://github.com/thopit/Creatures) - An evolution simulator with inheritance and mutation during reproduction.
-
-<!-- END CONTENT -->
 
 ## Contributing
 
 Contributions of any kind welcome, just follow the [guidelines](contributing.md)!
 
-### Contributors
+## Contributors
 
 Thanks goes to these [contributors](https://github.com/dietrich-stein/awesome-evolution-simulators/graphs/contributors)!

@@ -1,42 +1,28 @@
 <div align="center">
 
-<!-- title -->
-
 <!--lint ignore no-dead-urls-->
-
 # Awesome Evolution Simulators [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/dietrich-stein/awesome-evolution-simulators/actions/workflows/lint.yaml/badge.svg)](https://github.com/dietrich-stein/awesome-evolution-simulators/actions/workflows/lint.yaml)
-
-<!-- subtitle -->
-
-A curated list of awesome open-source evolution simulators.
-
-<!-- image 
-
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
-</a>-->
-
+<img width="900" src="aes-logo.png" alt="logo"/><br />
+A curated list of open-source evolution simulators.
 </div>
 
-<!-- description -->
+---
 
-An evolution simulator is software that simulates the process of evolution. They typically model the principles of natural selection, mutation, and genetic variation to mimic how species evolve over time. These simulations often use populations of virtual organisms or creatures that can reproduce, pass on genetic traits, and compete for resources in a simulated environment.
+<br/>
+Evolution simulators are software that simulates the process of evolution and typically models the principles of natural selection, mutation, genetic inheritance, and fitness evaluation. They often use populations of virtual organisms or agents that can reproduce, pass on genetic traits, compete for resources in a simulated environment and evolve over time.<br /><br />
 
-Many evolution simulators include functionality that isn't necessarily required for evolution and in most cases would not be sufficient to reproduce evolutionary processes without also having some combination of genetic inheritance, mutation, neural networks, and fitness evaluation. Some of these related (and very cool) but technically inessential features include:
+This list focuses on simulators that are truly awesome. We aim to find and list the ones that use advanced techniques to accelerate, enhance, or even replace the processes of evolution. Give us a hand by [making a contribution](contributing.md) if you find think you've got special or found something worth sharing. Some technologies to look for include:<br /><br />
 
+- Neural networks
 - Cellular automata
 - Reinforcement learning
 - Particle physics
 - Newtonian physics
 - Procedural generation
 
-<!-- TOC -->
-
 ## Contents
 
 - [New Links (Uncategorized)](#new-links-uncategorized)
-
-<!-- CONTENT -->
 
 ## New Links (Uncategorized)
 
@@ -55,8 +41,8 @@ Many evolution simulators include functionality that isn't necessarily required 
 
 ## Contributing
 
-[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+Contributions of any kind welcome, just follow the [guidelines](contributing.md)!
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/dietrich-stein/awesome-evolution-simulators/graphs/contributors)!
+Thanks goes to these [contributors](https://github.com/dietrich-stein/awesome-evolution-simulators/graphs/contributors)!

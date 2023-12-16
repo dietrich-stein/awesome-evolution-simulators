@@ -23,7 +23,7 @@ This list focuses on simulators that are truly awesome. We aim to find and list 
 ## Contents
 
 - [New Links (Uncategorized)](#new-links-uncategorized)
-- [Contributing](#contributing)
+- [How To Contribute](#how-to-contribute)
 - [Past Contributors](#past-contributors)
 
 ## New Links (Uncategorized)
@@ -39,7 +39,7 @@ This list focuses on simulators that are truly awesome. We aim to find and list 
 - [Thrive](https://github.com/Revolutionary-Games/Thrive) - A playable simulation game about the evolution of life with powerful creation tools and deep simulation mechanics.
 - [Creatures](https://github.com/thopit/Creatures) - An evolution simulator with inheritance and mutation during reproduction.
 
-## Contributing
+## How To Contribute
 
 Contributions of any kind welcome, just follow the [guidelines](contributing.md)!
 

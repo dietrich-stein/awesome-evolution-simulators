@@ -29,8 +29,8 @@ This list focuses on simulators that are truly awesome. We aim to find and list 
 ## New Links (Uncategorized)
 
 - [The Life Engine](https://github.com/MaxRobinsonTheGreat/LifeEngine) - A cellular automaton designed to simulate the long term processes of biological evolution. <img src="https://github.com/pheralb/svgl/blob/main/static/library/javascript.svg" alt="JS" width="16">
-- [Evolving-Protozoa](https://github.com/DylanCope/Evolving-Protozoa) - An interactive environment where protozoa-like entities live, die, and have offspring whose behaviours and morphologies can change.
-- [The Bibites](https://github.com/TheBibites/Bibites_Shared_Content) - Uses ideas from NeuroEvolution of Augmenting Technologies (NEAT) to simulate and evolve agent brains.
+- [Evolving-Protozoa](https://github.com/DylanCope/Evolving-Protozoa) - An interactive environment where protozoa-like entities live, die, and have offspring whose behaviours and morphologies can change. <img src="https://github.com/pheralb/svgl/blob/main/static/library/java.svg" alt="Java" width="16">
+- [The Bibites](https://github.com/TheBibites/Bibites_Shared_Content) - Uses ideas from NeuroEvolution of Augmenting Technologies (NEAT) to simulate and evolve agent brains. Available on [itch.io](https://thebibites.itch.io/the-bibites) as a closed source downloadable. ©️
 - [biosim4](https://github.com/davidrmiller/biosim4) - Simulates biological creatures that evolve through natural selection while making decisions based on pheremone trails.
 - [ecosim](https://github.com/connor-brooks/ecosim) - An interactive ecosystem and evolution simulator of agents with a variety of genetic traits.
 - [ALIEN](https://github.com/chrxh/alien) - A CUDA-powered artificial life simulator capable of large-scale real-time simulation.

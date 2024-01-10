@@ -28,7 +28,7 @@ This list focuses on simulators that are truly awesome. We aim to find and list 
 
 ## New Links (Uncategorized)
 
-- [The Life Engine](https://github.com/MaxRobinsonTheGreat/LifeEngine) - A cellular automaton designed to simulate the long term processes of biological evolution.
+- [The Life Engine](https://github.com/MaxRobinsonTheGreat/LifeEngine) - A cellular automaton designed to simulate the long term processes of biological evolution. ![JS](https://github.com/pheralb/svgl/blob/main/static/library/javascript.svg)
 - [Evolving-Protozoa](https://github.com/DylanCope/Evolving-Protozoa) - An interactive environment where protozoa-like entities live, die, and have offspring whose behaviours and morphologies can change.
 - [The Bibites](https://github.com/TheBibites/Bibites_Shared_Content) - Uses ideas from NeuroEvolution of Augmenting Technologies (NEAT) to simulate and evolve agent brains.
 - [biosim4](https://github.com/davidrmiller/biosim4) - Simulates biological creatures that evolve through natural selection while making decisions based on pheremone trails.

@@ -9,7 +9,8 @@ A curated list of open-source evolution simulators.
 ---
 
 <br/>
-Evolution simulators model the principles of natural selection, mutation, genetic inheritance, and fitness evaluation to apply the self-emergent process of evolution to populations of simulated lifeforms. These simulators provide virtual environments designed for rapidly simulating the entire lifespans of generations of virtual organisms as they compete, reproduce, and adapt. Some of the awesome things that evolution simulators often incorporate as features include:<br /><br />
+
+Evolution simulators model the principles of natural selection, mutation, genetic inheritance, and fitness evaluation to apply the self-emergent process of evolution to populations of virtual organisms. These simulators provide virtual environments designed for rapidly simulating the entire lifespans of many generations of these organisms as they compete, reproduce, and adapt. Some of the awesome things that evolution simulators often incorporate as features include:<br /><br />
 
 - Neural networks
 - Cellular automata
